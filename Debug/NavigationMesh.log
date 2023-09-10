@@ -1,0 +1,13 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(445,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  AStar.cpp
+C:\SDK\hlsdk\public\steam\steamtypes.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\SDK\hlsdk\engine\edict.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  NavmeshApi.cpp
+C:\SDK\hlsdk\public\steam\steamtypes.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\SDK\hlsdk\engine\edict.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  NavmeshEditor.cpp
+C:\SDK\hlsdk\public\steam\steamtypes.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\SDK\hlsdk\engine\edict.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  正在產生程式碼...
+     正在建立程式庫 C:\cs_server\cstrike\addons\amxmodx\modules\NavigationMesh_amxx.lib 和物件 C:\cs_server\cstrike\addons\amxmodx\modules\NavigationMesh_amxx.exp
+  NavigationMesh.vcxproj -> C:\cs_server\cstrike\addons\amxmodx\modules\NavigationMesh_amxx.dll
